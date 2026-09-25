@@ -5,5 +5,11 @@
       "path": ".",
     },
   ],
-  "settings": {},
+  "settings": {
+    "platformio-ide.customPATH": "C:\\Users\\lnqla\\.platformio\\penv\\Scripts",
+    "platformio-ide.useBuiltinPIOCore": true,
+    "terminal.integrated.env.windows": {
+      "PATH": "C:\\Users\\lnqla\\.platformio\\penv\\Scripts;C:\\Users\\lnqla\\AppData\\Local\\Programs\\Python\\Python312\\Scripts;${env:PATH}"
+    }
+  }
 }
